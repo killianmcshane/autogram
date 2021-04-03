@@ -3,7 +3,6 @@ Automatic content publishing via The Instagram Graph API.
 
 <h1 align="center">
 	<img width="250" src="images/heart3.png" alt="Donations"><p>
-	<br />
 	<a href="https://www.paypal.com/donate?hosted_button_id=924J8K3PC7NR6"><img width="185" src="https://img.shields.io/badge/Donate-PayPal-blue.svg" alt="Badge"></a>
 </h1>
 
