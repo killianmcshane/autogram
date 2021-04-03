@@ -11,7 +11,7 @@ Automatic content publishing via The Instagram Graph API.
 	<br><br>
 	<b> If you like the application, use the link above to help support me with the cost of university! 😇</b>
 	<br>
-	<b> Even donating the cost of a coffee means so much to me. </b>
+	<b> Even donating a coffee's worth means so much to me. ☕</b>
 </p>
 <br>
 
