@@ -10,6 +10,7 @@ Automatic content publishing via The Instagram Graph API.
 	<a href="https://www.paypal.com/donate?hosted_button_id=924J8K3PC7NR6"><img width="185" src="https://img.shields.io/badge/Donate-PayPal-blue.svg" alt="Badge"></a>
 	<br><br>
 	<b> If you like the application, use the link above to help support me with the cost of university! 😇</b>
+	<b> Even just the cost of a coffee means so much to me. </b>
 </p>
 <br>
 
