@@ -3,9 +3,11 @@ Automatic content publishing via The Instagram Graph API.
 
 <h1 align="center">
 	<img width="250" src="images/heart3.png" alt="Donations"><p>
+<p align="center">
 	<b> If you like the application, use the link above to help support me with the cost of my tuition! 😇</b>
 	<br><br>
 	<b> Even donating as much as a coffee means so much to me. ☕</b>
+</p>
 </h1>
 
 <br>
