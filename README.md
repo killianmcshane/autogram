@@ -6,7 +6,7 @@ Streamlined automatic content publishing via The Instagram Graph API.
 
 </h1>
 
-<p align="center;style=font-size:12px">
+<p align="center";style="font-size:12px">
 	<b> If you like the application, use the link below to help support me with the cost of my tuition! 😇</b>
 	<br><br>
 	<b> Even donating as little as a coffee means so much to me. </b>
