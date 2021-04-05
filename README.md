@@ -1,6 +1,7 @@
 # autogram
-Streamlined automatic content scaling, padding and publishing via The Instagram Graph API.
-<br><br>
+Autogram lets you streamline and automate content publishing via The Instagram Graph API. 
+By scaling, padding and converting content to meet Instagram's requirements, it takes all the hard work out of running an Instagram business profile. Simply drop your files into the *'pre-processing'* folder and select your post frequency and let autogram do the rest.
+<br><br><br>
 
 <h1 align="center">
 	<img width="140" src="images/heart3.png" alt="Donations"><p>
