@@ -18,8 +18,8 @@ By scaling, padding and converting content to meet Instagram's requirements, it 
 <br><br>
 </p>
 
-
-
+<br>
+<br>
 ## REQUIREMENTS
 In the autogram directory, run the following command:
 
@@ -33,8 +33,8 @@ Add its executable path to the defines.py file under the paths dictionary.
 
 e.g. ***[insert image here]***
 
-
-
+<br>
+<br>
 ## BEFORE YOU START
 
 **This is essential. If you skip this section, the application will not run.**
