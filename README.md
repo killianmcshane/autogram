@@ -8,9 +8,9 @@ By scaling, padding and converting content to meet Instagram's requirements, it 
 	<img width="140" src="images/heart3.png" alt="Donations"><p>
 </h1>
 <p align="center";style="font-size:12px">
-	<b> If you like the application, use the link below to help support me with the cost of my tuition! 😇</b>
+	<b> If you like the application, use the link below to help support me with the cost of my tuition!</b>
 	<br><br>
-	<b> Even donating as little as a coffee means so much to me. </b>
+	<b> Even donating as little as a coffee means so much to me. 😇</b>
 </p>
 
 <p align="center">
