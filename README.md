@@ -20,7 +20,6 @@ By scaling, padding and converting content to meet Instagram's requirements, it 
 
 <br>
 <br>
-<br>
 
 ## REQUIREMENTS
 In the autogram directory, run the following command:
@@ -35,7 +34,6 @@ Add its executable path to the defines.py file under the paths dictionary.
 
 e.g. ***[insert image here]***
 
-<br>
 <br>
 <br>
 
@@ -56,7 +54,8 @@ The steps above can seem somewhat confusing. To help you complete them, I've mad
 
 ***[insert video here]***
 
-
+<br>
+<br>
 
 ## RUN APPLICATION
 Simply drag all the files you want to upload into the 'pre-processing' folder, run the command below.
