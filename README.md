@@ -23,7 +23,7 @@ Streamlined automatic content publishing via The Instagram Graph API.
 
 ## REQUIREMENTS
 > ```sh
-> pip install requirements.txt
+> pip install -r requirements.txt
 > ```
 
 Before you can begin using the application, ensure that you've completed everything on the check-list below.
