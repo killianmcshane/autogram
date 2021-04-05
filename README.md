@@ -22,9 +22,44 @@ Streamlined automatic content publishing via The Instagram Graph API.
 <p></p>
 
 ## REQUIREMENTS
+In the autogram directory, run the following command:
+
 > ```sh
 > pip install -r requirements.txt
 > ```
 
-Before you can begin using the application, ensure that you've completed everything on the check-list below.
+Download and install FFMPEG [here](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z). 
 
+Add its executable path to the defines.py file under the paths dictionary.
+
+e.g. ***[insert image here]***
+
+## BEFORE YOU START
+
+**This is essential. If you skip this section, the application will not run.**
+
+Before you can start using the application, the following steps ***must*** be completed as stated in the Instagram Graph API documentation.
+
+||Getting Started |Links|
+|---|------|---|
+|`1.`|Create an Instagram **business** account. |[Here](https://help.instagram.com/502981923235522)|
+|`2.`|Create a Facebook page & **connect it to your Instagram business account** via the Instagram mobile app. |[Here](https://help.instagram.com/399237934150902)|
+|`3.`|Apply for a Facebook developer account with the same Facebook account used to register the Facebook page in step 2. |[Here](https://developers.facebook.com/docs/development/register/)|
+|`4.`|Register a Facebook developer app with *'basic'* settings configured.|[Here](https://developers.facebook.com/docs/development/create-an-app)|
+
+The steps above can seem somewhat confusing. To help you complete them, I've made a quick tutorial below. I'd strongly recommend that you give it a watch.
+
+***[insert video here]***
+
+
+## RUN APPLICATION
+Simply drag all the files you want to upload into the 'pre-processing' folder, run the command below.
+
+> ```sh
+> python main.py
+> ```
+
+
+Images, GIFs and videos will be automatically scaled, padded and converted to meet Instagram's specifications. Processed content will be moved to the 'uploads' folder where they will automatically be uploaded to Instagram.
+
+The default post frequency is set to 4hrs however, you can easily update this by editing it at the top of main.py file.
