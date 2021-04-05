@@ -1,5 +1,5 @@
 # autogram
-Streamlined automatic content publishing via The Instagram Graph API.
+Streamlined automatic content scaling, padding and publishing via The Instagram Graph API.
 
 <h1 align="center">
 	<img width="100" src="images/heart3.png" alt="Donations"><p>
