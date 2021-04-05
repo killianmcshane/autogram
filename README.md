@@ -19,6 +19,7 @@ By scaling, padding and converting content to meet Instagram's requirements, it 
 </p>
 
 
+
 ## REQUIREMENTS
 In the autogram directory, run the following command:
 
@@ -31,7 +32,8 @@ Download and install FFMPEG [here](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git
 Add its executable path to the defines.py file under the paths dictionary.
 
 e.g. ***[insert image here]***
-<br><br><br>
+
+
 
 ## BEFORE YOU START
 
@@ -49,7 +51,8 @@ Before you can start using the application, the following steps ***must*** be co
 The steps above can seem somewhat confusing. To help you complete them, I've made a quick tutorial below. I'd strongly recommend that you give it a watch.
 
 ***[insert video here]***
-<br><br><br>
+
+
 
 ## RUN APPLICATION
 Simply drag all the files you want to upload into the 'pre-processing' folder, run the command below.
