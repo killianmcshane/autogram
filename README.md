@@ -20,6 +20,8 @@ By scaling, padding and converting content to meet Instagram's requirements, it 
 
 <br>
 <br>
+<br>
+
 ## REQUIREMENTS
 In the autogram directory, run the following command:
 
@@ -35,6 +37,8 @@ e.g. ***[insert image here]***
 
 <br>
 <br>
+<br>
+
 ## BEFORE YOU START
 
 **This is essential. If you skip this section, the application will not run.**
@@ -65,4 +69,5 @@ Simply drag all the files you want to upload into the 'pre-processing' folder, r
 Images, GIFs and videos will be automatically scaled, padded and converted to meet Instagram's specifications. Processed content will be moved to the 'uploads' folder where they will automatically be uploaded to Instagram.
 
 The default post frequency is set to 4hrs however, you can easily update this by editing it at the top of main.py file.
-<br><br><br>
+<br>
+<br>
