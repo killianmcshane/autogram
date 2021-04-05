@@ -18,6 +18,8 @@ Streamlined automatic content publishing via The Instagram Graph API.
 	<br><br>
 	
 </p>
-<br><br>
+<br>
 ## REQUIREMENTS
+<p></p>
+Before you can begin using the application, ensure that you've completed everything on the check-list below.
 
