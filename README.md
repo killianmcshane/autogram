@@ -1,8 +1,9 @@
 # autogram
 Streamlined automatic content scaling, padding and publishing via The Instagram Graph API.
+<br><br>
 
 <h1 align="center">
-	<img width="100" src="images/heart3.png" alt="Donations"><p>
+	<img width="140" src="images/heart3.png" alt="Donations"><p>
 </h1>
 <p align="center";style="font-size:12px">
 	<b> If you like the application, use the link below to help support me with the cost of my tuition! 😇</b>
