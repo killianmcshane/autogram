@@ -33,7 +33,7 @@ Download and install FFMPEG [here](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git
 Add its executable path to the defines.py file under the paths dictionary.
 
 e.g. ***[insert image here]***
-<br/>
+<br><br><br>
 
 ## BEFORE YOU START
 
@@ -51,7 +51,7 @@ Before you can start using the application, the following steps ***must*** be co
 The steps above can seem somewhat confusing. To help you complete them, I've made a quick tutorial below. I'd strongly recommend that you give it a watch.
 
 ***[insert video here]***
-<br/>
+<br><br><br>
 
 ## RUN APPLICATION
 Simply drag all the files you want to upload into the 'pre-processing' folder, run the command below.
@@ -64,4 +64,4 @@ Simply drag all the files you want to upload into the 'pre-processing' folder, r
 Images, GIFs and videos will be automatically scaled, padded and converted to meet Instagram's specifications. Processed content will be moved to the 'uploads' folder where they will automatically be uploaded to Instagram.
 
 The default post frequency is set to 4hrs however, you can easily update this by editing it at the top of main.py file.
-<br/>
+<br><br><br>
