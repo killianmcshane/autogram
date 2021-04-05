@@ -12,12 +12,12 @@ By scaling, padding and converting content to meet Instagram's requirements, it 
 	<br><br>
 	<b> Even donating as little as a coffee means so much to me. </b>
 </p>
-<br>
+
 <p align="center">
 	<a href="https://www.paypal.com/donate?hosted_button_id=924J8K3PC7NR6"><img width="140" src="https://img.shields.io/badge/Donate-PayPal-blue.svg" alt="Badge"></a>
 <br><br>
 </p>
-<br>
+
 
 ## REQUIREMENTS
 In the autogram directory, run the following command:
