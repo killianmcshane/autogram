@@ -28,10 +28,6 @@ In the autogram directory, run the following command:
 > pip install -r requirements.txt
 > ```
 
-Download and install FFMPEG [here](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z). 
-
-Add its executable path to the defines.py file under the paths dictionary.
-
 e.g. ***[insert image here]***
 
 <br>
