@@ -45,7 +45,8 @@ Before you can start using the application, the following steps ***must*** be co
 |`2.`|Create a Facebook page & **connect it to your Instagram business account** via the Instagram mobile app. |[Here](https://help.instagram.com/399237934150902)|
 |`3.`|Apply for a Facebook developer account with the same Facebook account used to register the Facebook page in step 2. |[Here](https://developers.facebook.com/docs/development/register/)|
 |`4.`|Register a Facebook developer app with *'basic'* settings configured.|[Here](https://developers.facebook.com/docs/development/create-an-app)|
-|`5.`|Enter your newly obtained details into the *defines.py* file. ||
+|`5.`|Register an Imgur account, and an Imgur developer app through postman. |[Here](https://apidocs.imgur.com/)|
+|`6.`|Enter your newly obtained details into the *defines.py* file. ||
 
 The steps above can seem somewhat confusing. To help you complete them, I've made a quick tutorial below. I'd strongly recommend that you give it a watch.
 
