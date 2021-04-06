@@ -54,15 +54,15 @@ The steps above can seem somewhat confusing. To help you complete them, I've mad
 <br>
 
 ## RUN APPLICATION
-Simply drag all the files you want to upload into the 'pre-processing' folder, run the command below.
+Simply drag all the files you want to upload into the *'pre-processing'* folder, run the command below.
 
 > ```sh
 > python main.py
 > ```
 
 
-Images, GIFs and videos will be automatically scaled, padded and converted to meet Instagram's specifications. Processed content will be moved to the 'uploads' folder where they will automatically be uploaded to Instagram.
+Images, GIFs and videos will be automatically scaled, padded and converted to meet Instagram's specifications. Processed content will be moved to the *'uploads'* folder where they will automatically be uploaded to Instagram.
 
-The default post frequency is set to 4hrs however, you can easily update this by editing it at the top of main.py file.
+The default post frequency is set to every 4hrs however, you can easily update this by changing it at the top of the *main.py* file.
 <br>
 <br>
