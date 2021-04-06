@@ -66,5 +66,13 @@ Simply drag all the files you want to upload into the *'pre-processing'* folder,
 Images, GIFs and videos will be automatically scaled, padded and converted to meet Instagram's specifications. Processed content will be moved to the *'uploads'* folder where they will automatically be uploaded to Instagram.
 
 The default post frequency is set to every 4hrs however, you can easily update this by changing it at the top of the *main.py* file.
+
 <br>
 <br>
+
+## HOW IT WORKS
+The Instagram Graph API only uploads content using URLs hosted from public servers. 
+
+By using Imgur's API, we can automate the generation of these URLs from content on our computers.
+
+The automatic scaling and padding is achieved through the use of FFmpeg, a free, open source command-line software for handling media.
