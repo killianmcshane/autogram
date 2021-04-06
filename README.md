@@ -28,8 +28,6 @@ In the autogram directory, run the following command:
 > pip install -r requirements.txt
 > ```
 
-e.g. ***[insert image here]***
-
 <br>
 <br>
 
@@ -50,7 +48,9 @@ Before you can start using the application, the following steps ***must*** be co
 
 The steps above can seem somewhat confusing. To help you complete them, I've made a quick tutorial below. I'd strongly recommend that you give it a watch.
 
-***[insert video here]***
+e.g. ***[insert image here]***
+
+e.g. ***[insert video here]***
 
 <br>
 <br>
