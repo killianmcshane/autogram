@@ -30,6 +30,8 @@ In the autogram directory, run the following command:
 > pip install -r requirements.txt
 > ```
 
+> Unzip ffmpeg.zip to the autogram directory.
+
 <br>
 <br>
 
