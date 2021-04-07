@@ -60,9 +60,9 @@ Before you can start using the application, the following steps ***must*** be co
 <br>
 <br>
 
-> ```
+
 > Updating defines.py with the newly obtained API credentials.
-> ```
+
 
 ![defines](https://user-images.githubusercontent.com/63755344/113907439-46fce200-97cd-11eb-8e60-7f8dd82d969a.png)
 
