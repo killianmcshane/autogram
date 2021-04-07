@@ -46,8 +46,11 @@ Before you can start using the application, the following steps ***must*** be co
 |`3.`|Log into Facebook's Developer Site with the same Facebook account used to register the Facebook page in step 2. |[Here](https://developers.facebook.com/docs/development/register/ "Facebook Developer Account")|[Here](https://imgur.com/mbeak12 "Facebook Developer Account")|
 |`4.`|Set up a Facebook Developer App and save your Client ID and Client Secret somewhere. |[Here](https://developers.facebook.com/docs/development/create-an-app "Developer App")|[Here](https://imgur.com/W83DEWl "Developer App")|
 |`5.`|Give your new developer app [these](https://github.com/killianmcshane/autogram "App Permissions") permissions through the API Explorer Tool. |[Here](https://developers.facebook.com/tools/explorer/ "Add Permissions Using Explorer Tool").|[Here](https://imgur.com/PjDuude "Permissions")|
-|`6`|Register an Imgur account and an Imgur developer app through postman. |[Here](https://apidocs.imgur.com/ "Imgur API")||
-|`7.`|Enter your newly obtained details into the *defines.py* file. |||
+|`6.`|Register an Imgur account and an Imgur developer app. |[Here](https://imgur.com/register "Imgur Registration")||
+|`7.`|Register an Imgur developer app and change the callback URL to what's in the picture on the right. |[Here](https://api.imgur.com/oauth2/addclient "Imgur API")||
+|`8.`|Click the link, select 'Run In Postman' (top right) and obtain the access token for your Imgur application by selecting Type: OAuth2.0.|[Here](https://apidocs.imgur.com/ "Postman")||
+|`9.`|Enter your newly obtained details into the *defines.py* file. |||
+
 
 The steps above can seem somewhat confusing. To help you complete them, I've made a quick tutorial below. I'd strongly recommend that you give it a watch.
 
