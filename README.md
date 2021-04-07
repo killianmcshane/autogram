@@ -44,19 +44,18 @@ Before you can start using the application, the following steps ***must*** be co
 |`1.`|Create an Instagram account and switch it to **business**. This **will not work** for other account types.|[Here](https://help.instagram.com/502981923235522 "Instagram Business Account")|[Here](https://i.imgur.com/ExoeMld "Instagram Business Account")|
 |`2.`|Create a Facebook page [like so](https://imgur.com/MZu7rNN) & **connect it to your Instagram business account** via the Instagram mobile app. |[Here](https://help.instagram.com/399237934150902 "Connecting Your Page")|[Here](https://i.imgur.com/JQTr0LO "Connecting Your Page")|
 |`3.`|Log into Facebook's Developer Site with the same Facebook account used to register the Facebook page in step 2. |[Here](https://developers.facebook.com/docs/development/register/ "Facebook Developer Account")|[Here](https://imgur.com/mbeak12 "Facebook Developer Account")|
-|`4.`|Set up a Facebook Developer App and save your Client ID and Client Secret somewhere. |[Here](https://developers.facebook.com/docs/development/create-an-app "Developer App")|[Here](https://imgur.com/W83DEWl "Developer App")|
-|`5.`|Give your new developer app [these](https://github.com/killianmcshane/autogram "App Permissions") permissions through the API Explorer Tool. |[Here](https://developers.facebook.com/tools/explorer/ "Add Permissions Using Explorer Tool").|[Here](https://imgur.com/PjDuude "Permissions")|
-|`6.`|Register an Imgur account and an Imgur developer app. |[Here](https://imgur.com/register "Imgur Registration")||
-|`7.`|Register an Imgur developer app and change the callback URL to what's in the picture on the right. |[Here](https://api.imgur.com/oauth2/addclient "Imgur API")||
-|`8.`|Click the link, select 'Run In Postman' (top right) and obtain the access token for your Imgur application by selecting Type: OAuth2.0.|[Here](https://apidocs.imgur.com/ "Postman")||
-|`9.`|Enter your newly obtained details into the *defines.py* file. |||
+|`4.`|Set up a Facebook Developer App and save your Facebook/Instagram Client ID and Client Secret somewhere. |[Here](https://developers.facebook.com/docs/development/create-an-app "Developer App")|[Here](https://imgur.com/W83DEWl "Developer App")|
+|`5.`|Give your new developer app [these](https://github.com/killianmcshane/autogram "App Permissions") permissions through the API Explorer Tool. |[Here](https://developers.facebook.com/tools/explorer/ "Add Permissions Using Explorer Tool")|[Here](https://imgur.com/PjDuude "Permissions")|
+|`6.`|Register for Imgur, you'll then be asked to set up a developer app. Set the callback URL to 'https://oauth.pstmn.io/v1/browser-callback'. Save your Imgur Client ID and Client Secret somewhere. |[Here](https://api.imgur.com/oauth2/addclient "Imgur API")|[Here](https://imgur.com/BSrUIxx "Imgur's API")|
+|`7.`|Click the link, select 'Run In Postman' (top right) and obtain the access token for your Imgur application by selecting Type: OAuth2.0 .|[Here](https://apidocs.imgur.com/ "Postman")|[Here](https://imgur.com/Si6J0Ny "Postman For Imgur")<br>[Here](https://imgur.com/JtjfW5O)|
+|`8.`|Enter a name for your token. For Auth URL enter: https://api.imgur.com/oauth2/authorize and for Access Token URL enter: https://api.imgur.com/oauth2/token . Finally, enter your Imgur Client ID and Client Secret from before and hit enter.||[Here](https://imgur.com/kYqDV7C)|
+|`9.`|After this, you'll be given your Imgur Access Token, save all the information somewhere. |||
+|`10.`|Enter your newly obtained Instagram and Imgur details into the *defines.py* file. |||
 
 
-The steps above can seem somewhat confusing. To help you complete them, I've made a quick tutorial below. I'd strongly recommend that you give it a watch.
+The steps above can seem somewhat confusing. To help you complete them, I'm in the process of making a quick tutorial. I'd strongly recommend that you give it a watch when I've published it.
 
-e.g. ***[insert image here]***
-
-e.g. ***[insert video here]***
+w.i.p. ***[insert video here]***
 
 <br>
 <br>
