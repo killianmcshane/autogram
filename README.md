@@ -39,7 +39,7 @@ In the autogram directory, run the following command:
 
 Before you can start using the application, the following steps ***must*** be completed as stated in the Instagram Graph API documentation.
 
-||Getting Started | Links | How |
+||Getting Started | Links | Pics |
 |---|------|---|---|
 |`1.`|Create an Instagram account and switch it to **business**. This **will not work** for other account types.|[Here](https://help.instagram.com/502981923235522 "Instagram Business Account")|[Here](https://i.imgur.com/ExoeMld "Instagram Business Account")|
 |`2.`|Create a Facebook page [like so](https://imgur.com/MZu7rNN) & **connect it to your Instagram business account** via the Instagram mobile app. |[Here](https://help.instagram.com/399237934150902 "Connecting Your Page")|[Here](https://i.imgur.com/JQTr0LO "Connecting Your Page")|
