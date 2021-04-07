@@ -41,7 +41,7 @@ Before you can start using the application, the following steps ***must*** be co
 
 ||Getting Started | Links | How |
 |---|------|---|---|
-|`1.`|Create an Instagram **business** account. This **will not work** for other account types.|[Here](https://help.instagram.com/502981923235522 "Instagram Business Account")|[Here](https://i.imgur.com/ExoeMld "Instagram Business Account")|
+|`1.`|Create an Instagram account and switch it to **business**. This **will not work** for other account types.|[Here](https://help.instagram.com/502981923235522 "Instagram Business Account")|[Here](https://i.imgur.com/ExoeMld "Instagram Business Account")|
 |`2.`|Create a Facebook page [like so](https://imgur.com/MZu7rNN) & **connect it to your Instagram business account** via the Instagram mobile app. |[Here](https://help.instagram.com/399237934150902 "Connecting Your Page")|[Here](https://i.imgur.com/JQTr0LO "Connecting Your Page")|
 |`3.`|Log into Facebook's Developer Site using the same Facebook account used to register the Facebook page in step 2. |[Here](https://developers.facebook.com/docs/development/register/ "Facebook Developer Account")|[Here](https://imgur.com/mbeak12 "Facebook Developer Account")|
 |`4.`|Create a developer app, then give it [these](https://github.com/killianmcshane/autogram "App Permissions") permissions through the API Explorer Tool [here](https://developers.facebook.com/tools/explorer/ "Add Permissions Using Explorer Tool"). |[Here](https://developers.facebook.com/docs/development/create-an-app "Developer App")|[Here](https://imgur.com/W83DEWl "Developer App")<br>[Here](https://imgur.com/nyuZqmM "Explorer Tool")<br>[Here](https://imgur.com/PjDuude "Permissions")|
