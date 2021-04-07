@@ -60,7 +60,7 @@ w.i.p. ***[insert video here]***
 <br>
 <br>
 
-## RUN APPLICATION
+## RUNNING THE APPLICATION
 Simply drag all the files you want to upload into the *'pre-processing'* folder, run the command below.
 
 > ```sh
