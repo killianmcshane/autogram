@@ -1,0 +1,14 @@
+Enter ALL of these permissions into the Facebook/Instagra Graph API Explorer Tool:
+
+instagram_basic
+publish_video
+ads_management
+business_management
+instagram_manage_comments
+instagram_manage_insights
+instagram_content_publish
+pages_read_engagement
+pages_manage_metadata
+pages_read_user_content
+pages_manage_ads
+public_profile
