@@ -50,7 +50,7 @@ Before you can start using the application, the following steps ***must*** be co
 |`7.`|Click the link, select 'Run In Postman' (top right) and obtain the access token for your Imgur application by selecting Type: OAuth2.0 .|[Here](https://apidocs.imgur.com/ "Postman Link")|[Here](https://imgur.com/Si6J0Ny "Postman For Imgur")<br>[Here](https://imgur.com/JtjfW5O "Type")|
 |`8.`|Enter a name for your token. For the Auth URL enter: 'https://api.imgur.com/oauth2/authorize' and for the Access Token URL enter: 'https://api.imgur.com/oauth2/token'. Finally, enter your Imgur Client ID and Client Secret from before and hit enter.||[Here](https://imgur.com/kYqDV7C "Generating Your Access Token")|
 |`9.`|After this, you'll be given your Imgur Access Token, save all the information somewhere. |||
-|`10.`|Enter your newly obtained Instagram and Imgur details into the *defines.py* file. |||
+|`10.`|Enter all your newly obtained Instagram and Imgur details into the *defines.py* file. |||
 
 
 The steps above can seem somewhat confusing. To help you complete them, I'm in the process of making a quick tutorial. I'd strongly recommend that you give it a watch when I've published it.
