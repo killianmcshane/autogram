@@ -31,9 +31,11 @@ In the autogram directory, run the following command:
 > ```
 
 <br>
+
 >
 > unzip ffmpeg.zip to the autogram directory.
 >
+
 <br>
 <br>
 
