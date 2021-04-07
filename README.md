@@ -4,7 +4,7 @@ The autogram script lets you streamline and automate content publishing legally 
 By scaling, padding and converting content to meet Instagram's requirements, it takes all the hard work out of running an Instagram business profile. Simply drop your files into the *'pre-processing'* folder and select your post frequency and let autogram do the rest.
 
 The set-up process may seem tricky but once completed, you'll be effortlessly running an automatic Instagram page in no time.
-<br><br><br>
+<br><br>
 
 <h1 align="center">
 	<img width="140" src="images/heart3.png" alt="Donations"><p>
@@ -48,7 +48,7 @@ Before you can start using the application, the following steps ***must*** be co
 |`5.`|Give your new developer app [these](https://github.com/killianmcshane/autogram "App Permissions") permissions through the API Explorer Tool. |[Here](https://developers.facebook.com/tools/explorer/ "Add Permissions Using Explorer Tool")|[Here](https://imgur.com/PjDuude "Permissions")|
 |`6.`|Register for Imgur, you'll then be asked to set up a developer app. Set the callback URL to 'https://oauth.pstmn.io/v1/browser-callback'. Save your Imgur Client ID and Client Secret somewhere. |[Here](https://api.imgur.com/oauth2/addclient "Imgur API")|[Here](https://imgur.com/BSrUIxx "Imgur's API")|
 |`7.`|Click the link, select 'Run In Postman' (top right) and obtain the access token for your Imgur application by selecting Type: OAuth2.0 .|[Here](https://apidocs.imgur.com/ "Postman")|[Here](https://imgur.com/Si6J0Ny "Postman For Imgur")<br>[Here](https://imgur.com/JtjfW5O)|
-|`8.`|Enter a name for your token. For Auth URL enter: https://api.imgur.com/oauth2/authorize and for Access Token URL enter: https://api.imgur.com/oauth2/token . Finally, enter your Imgur Client ID and Client Secret from before and hit enter.||[Here](https://imgur.com/kYqDV7C)|
+|`8.`|Enter a name for your token. For the Auth URL enter: 'https://api.imgur.com/oauth2/authorize' and for the Access Token URL enter: 'https://api.imgur.com/oauth2/token'. Finally, enter your Imgur Client ID and Client Secret from before and hit enter.||[Here](https://imgur.com/kYqDV7C)|
 |`9.`|After this, you'll be given your Imgur Access Token, save all the information somewhere. |||
 |`10.`|Enter your newly obtained Instagram and Imgur details into the *defines.py* file. |||
 
