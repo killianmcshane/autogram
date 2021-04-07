@@ -19,6 +19,16 @@ def getPaths():
     paths['contentID_path'] = paths['base_path'] + 'content\\contentIDs.txt'
     paths['ffmpeg'] = paths['base_path'] + "ffmpeg\\bin\\ffmpeg.exe"
 
+    # Creates the empty content root folders.
+    if path.exists(paths['content_archive_path']) is False:
+        mkdir(paths['content_archive_path'])
+
+    if path.exists(paths['content_preprocessing_path']) is False:
+        mkdir(paths['content_preprocessing_path'])
+
+    if path.exists(paths['content_upload_path']) is False:
+        mkdir(paths['content_upload_path'])
+
     return paths
 
 
