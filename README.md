@@ -51,12 +51,14 @@ Before you can start using the application, the following steps ***must*** be co
 |`8.`|Enter a name for your token. For the Auth URL enter: 'https://api.imgur.com/oauth2/authorize' and for the Access Token URL enter: 'https://api.imgur.com/oauth2/token'. Finally, enter your Imgur Client ID and Client Secret from before and hit enter.||[Here](https://imgur.com/kYqDV7C "Generating Your Access Token")|
 |`9.`|After this, you'll be given your Imgur Access Token, save all the information somewhere. |||
 |`10.`|Enter all your newly obtained Instagram and Imgur details into the *defines.py* file below. |||
+<br>
 
 > ```
 > Updating defines.py with the newly obtained API credentials.
 > ```
 ![defines](https://user-images.githubusercontent.com/63755344/113906937-b1f9e900-97cc-11eb-800f-de96e9c8f06d.png)
 
+<br>
 The steps above can seem somewhat confusing. To help you complete them, I'm in the process of making a quick tutorial. I'd strongly recommend that you give it a watch when I've published it.
 
 w.i.p. ***[insert video here]***
