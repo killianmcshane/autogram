@@ -2,6 +2,8 @@
 The autogram script lets you streamline and automate content publishing legally via The Instagram Graph API.
 
 By scaling, padding and converting content to meet Instagram's requirements, it takes all the hard work out of running an Instagram business profile. Simply drop your files into the *'pre-processing'* folder and select your post frequency and let autogram do the rest.
+
+The set-up process may seem tricky but once completed, you'll be effortlessly running an automatic Instagram page in no time.
 <br><br><br>
 
 <h1 align="center">
